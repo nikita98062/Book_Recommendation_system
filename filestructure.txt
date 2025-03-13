@@ -1,0 +1,21 @@
+|-- .gitignore
+|-- app.py
+|-- artifacts
+    |-- book_data_df.pkl
+    |-- book_name.pkl
+    |-- book_pivot.pkl
+    |-- model.pkl
+|-- book r.pptx
+|-- Books (4).csv
+|-- Bookshop.xlsx
+|-- bookshop_combined_outer_join.csv
+|-- book_recomendation-checkpoint.ipynb
+|-- book_recomendation.ipynb
+|-- demo.png
+|-- P457- Requirement document(1).docx
+|-- PROJECT INDEX.docx
+|-- README.md
+|-- requirements.txt
+|-- setup.py
+|-- src
+    |-- __init__.py
